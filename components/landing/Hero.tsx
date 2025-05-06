@@ -164,7 +164,7 @@ const Hero: React.FC<HeroProps> = ({ colorFilter, setColorFilter, filterStyles }
       {/* Main Hero Section with Filtered Content */}
       <motion.div
         className="relative z-10 flex flex-col items-center justify-start min-h-screen space-y-4 px-4 pt-32 pb-12"
-        style={{ filter: filterStyles[colorFilter] }}  // Apply the selected color filter
+        style={{ filter: filterStyles[colorFilter] }}  
         variants={containerVariants}
         initial="hidden"
         animate="visible"
