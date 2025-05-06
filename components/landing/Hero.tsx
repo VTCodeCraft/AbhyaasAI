@@ -14,7 +14,7 @@ import { SparklesText } from "@/components/magicui/sparkles-text";
 import AnimatedImage from "@/components/landing/AnimatedImage";
 import { useUser } from "@clerk/nextjs";
 
-// 👇 Props Interface
+// Props Interface
 interface HeroProps {
   colorFilter: string;
   setColorFilter: React.Dispatch<React.SetStateAction<string>>;
