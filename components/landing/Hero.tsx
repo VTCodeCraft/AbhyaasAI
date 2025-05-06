@@ -76,7 +76,7 @@ const Hero: React.FC<HeroProps> = ({ colorFilter, setColorFilter, filterStyles }
 
   return (
     <>
-      {/* Accessibility Button (outside of working area) */}
+      {/* Accessibility Button */}
       <button
         className="fixed bottom-6 right-6 bg-primary text-black p-3 rounded-full shadow-lg z-[9999]"
         onClick={() => setShowSettings(!showSettings)}
