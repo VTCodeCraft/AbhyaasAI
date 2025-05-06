@@ -208,7 +208,7 @@ const Hero: React.FC<HeroProps> = ({ colorFilter, setColorFilter, filterStyles }
 
         <motion.div variants={itemVariants}>
           <AnimatedImage
-            src="./public/dashboard.png"
+            src="/dashboard.png"
             alt="Image"
             width={1200}
             height={900}
