@@ -35,6 +35,15 @@ See how much you’ve improved over time, identify weak areas, and never lose tr
 :speech_balloon: *Multimodal Interface*  
 Use it on web, and soon — on WhatsApp & mobile apps too!
 
+:wheelchair: *Accessibility Assistant*  
+Floating Accessibility button at the bottom corner lets users:
+- Adjust font size and line spacing  
+- Add Dyslexia friendly fonts
+- Apply color filters for color blindness (Protanopia, Deuteranopia, Tritanopia)  
+- Enhance readability for diverse learners
+
+- Reading Line Guide (Upcoming feature)
+
 ---
 
 ## :busts_in_silhouette: Who Is It For?
@@ -55,12 +64,12 @@ Use it on web, and soon — on WhatsApp & mobile apps too!
 
 ---
 
-## :tools: Tech Stack
+##  Tech Stack
 
 - :jigsaw: *Frontend*: Next.js, TypeScript, Tailwind CSS  
-- :brain: *AI Layer*: Gemini APIS,LLMs 
+- :brain: *AI Layer*: Gemini APIS, LLMs  
 - :closed_lock_with_key: *Auth*: Clerk  
-- :cloud: *Backend*: Next.js,Prisma,Mongodb  (shifted to postgres )
+- :cloud: *Backend*: Next.js, Prisma, MongoDB (shifted to PostgreSQL)  
 - :robot: *Bot Layer*: WhatsApp + Twilio Integration  
 - :test_tube: *Chrome Extension*: Capture videos directly from YouTube //upcoming
 
@@ -69,7 +78,7 @@ Use it on web, and soon — on WhatsApp & mobile apps too!
 ## :rocket: Getting Started (Developer Mode)
 
 ```bash
-git clone https://github.com/your-username/Abhyaas-ai.git
+git clone https://github.com/VTCodeCraft/AbhyaasAI.git
 cd Abhyaas-ai
 npm install
 npm run dev
