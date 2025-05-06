@@ -31,7 +31,7 @@ const itemVariants = {
   visible: { opacity: 1 },
 };
 
-// 👇 Hero Component
+
 const Hero: React.FC<HeroProps> = ({ colorFilter, setColorFilter, filterStyles }) => {
   const { isSignedIn } = useUser();
   const linkHref = isSignedIn ? "/dashboard" : "/sign-up";
