@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import { twilioClient } from "@/lib/twilio";
 import prisma from "@/lib/prisma";
 
+//Adding a new route to send reminder messages to users via WhatsApp
 const memes = [
   "https://res.cloudinary.com/dlvcibxgx/image/upload/v1744576271/WhatsApp_Image_2025-04-14_at_01.45.17_f73174b0_d3a8fs.jpg",
   "https://res.cloudinary.com/dlvcibxgx/image/upload/v1744576661/WhatsApp_Image_2025-04-14_at_02.05.00_223639b9_k7hqfo.jpg",
