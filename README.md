@@ -69,7 +69,7 @@ Use it on web, and soon — on WhatsApp & mobile apps too!
 ## :rocket: Getting Started (Developer Mode)
 
 ```bash
-git clone https://github.com/your-username/Abhyaas-ai.git
+git clone https://github.com/VTCodeCraft/AbhyaasAI.git
 cd Abhyaas-ai
 npm install
 npm run dev
