@@ -20,7 +20,7 @@ export default function Navbar() {
           <div className="flex items-center gap-4">
             {/* GitHub Star Button */}
             <a
-              href="https://github.com/vatsal-bhakodia/smriti-ai"
+              href="https://github.com/VTCodeCraft/AbhyaasAI"
               target="_blank"
               rel="noopener noreferrer"
             >
