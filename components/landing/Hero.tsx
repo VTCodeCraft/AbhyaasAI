@@ -179,7 +179,7 @@ const Hero: React.FC<HeroProps> = ({ colorFilter, setColorFilter, filterStyles }
           <BlurIn
             word={
               <>
-                <span>Phadlo Chahe Kahi se,</span>
+                <span>Padhlo Chahe Kahi se,</span>
                 <br />
                 <SparklesText className="inline" text="Yaad" />
                 <span> Hoga Yahi se.</span>
