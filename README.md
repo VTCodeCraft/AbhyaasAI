@@ -55,7 +55,7 @@ Use it on web, and soon — on WhatsApp & mobile apps too!
 
 ---
 
-## :tools: Tech Stack
+##  Tech Stack
 
 - :jigsaw: *Frontend*: Next.js, TypeScript, Tailwind CSS  
 - :brain: *AI Layer*: Gemini APIS,LLMs 
