@@ -41,7 +41,7 @@ const pricingPlans = [
       "Built for teams, coaching institutes & educators to manage multiple learners.",
     features: [
       "Team access & dashboards",
-      "50GB cloud link vault",
+      "50GB cloud link vault", // Cloud link vault for storing links
       "Advanced analytics & reminders",
       "Priority support",
     ],
