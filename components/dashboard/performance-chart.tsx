@@ -20,7 +20,7 @@ const chartData = [
 const chartConfig = {
   marks: {
     label: "marks",
-    color: "hsl(90, 60%, 50%)", // vibrant yellow-green
+    color: "hsl(90, 60%, 50%)", // vibrant yellow-green color
   },
 } satisfies ChartConfig;
 
